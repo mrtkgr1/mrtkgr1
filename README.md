@@ -1,4 +1,6 @@
-<a href="https://roadmap.sh"><img src="https://api.roadmap.sh/v1-badge/tall/6574642a5145316d25dbab42?variant=dark" alt="roadmap.sh"/></a>
+# İlerleme
+- [Backend](https://roadmap.sh/backend?s=6574642a5145316d25dbab42)
+- [Java](https://roadmap.sh/java?s=6574642a5145316d25dbab42)
 
 <!--
 **mrtkgr1/mrtkgr1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
